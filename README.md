@@ -1,5 +1,5 @@
 - 👋 Hi, @ilovepineapple
-- 👀 I’m interested in software engigeer and architecture
+- 👀 I’m interested in software engineer and architecture
 - 🌱 I’m currently learning something about ruby, lua, rust and functional programming
 - 💞️ I’m looking to collaborate on projects using JavaScript
 
